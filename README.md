@@ -4,3 +4,5 @@ This project investigates whether SMRs, traditionally used as baseload generator
 A dynamic model simulates a 50 MWe NuScale SMR, evaluating Proportional- Integral (PI) and Model Predictive Control (MPC) methods. 
 Results suggest that MPC significantly outperforms PI control, adeptly balancing load demands while minimizing steam waste. 
 This offers a promising avenue for integrating SMRs into renewable-heavy mi- crogrids, potentially reducing reliance on auxiliary Distributed Energy Resources (DERs).
+
+Refer to nuclear_cogeneration_report.pdf for final report. 
